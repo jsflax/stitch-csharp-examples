@@ -1,0 +1,4 @@
+2017-08-26 23:22:38.668 Stitch ToDo[33556:4883951] Unknown class _TtC10todo_macOS12SYFlatButton in Interface Builder file at path /Users/jsflax/Development/StitchCSharpSDK/todo.macOS/bin/Debug/Stitch ToDo.app/Contents/Resources/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib.
+2017-08-26 23:22:38.670 Stitch ToDo[33556:4883951] Failed to set (borderNormalColor) user defined inspected property on (NSButton): [<NSButton 0x60800015ca90> setValue:forUndefinedKey:]: this class is not key value coding-compliant for the key borderNormalColor.
+2017-08-26 23:22:38.670 Stitch ToDo[33556:4883951] Failed to set (borderHighlightColor) user defined inspected property on (NSButton): [<NSButton 0x60800015ca90> setValue:forUndefinedKey:]: this class is not key value coding-compliant for the key borderHighlightColor.
+2017-08-26 23:22:38.681 Stitch ToDo[33556:4883951] Could not connect action, target class ViewController does not respond to -AnonymousLoginButton:

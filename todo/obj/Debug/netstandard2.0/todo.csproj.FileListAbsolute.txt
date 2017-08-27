@@ -1,0 +1,11 @@
+/Users/jsflax/Development/StitchCSharpSDK/todo/bin/Debug/netstandard2.0/todo.deps.json
+/Users/jsflax/Development/StitchCSharpSDK/todo/bin/Debug/netstandard2.0/todo.dll
+/Users/jsflax/Development/StitchCSharpSDK/todo/bin/Debug/netstandard2.0/todo.pdb
+/Users/jsflax/Development/StitchCSharpSDK/todo/bin/Debug/netstandard2.0/Stitch.dll
+/Users/jsflax/Development/StitchCSharpSDK/todo/bin/Debug/netstandard2.0/Stitch.pdb
+/Users/jsflax/Development/StitchCSharpSDK/todo/obj/Debug/netstandard2.0/todo.csprojResolveAssemblyReference.cache
+/Users/jsflax/Development/StitchCSharpSDK/todo/obj/Debug/netstandard2.0/todo.csproj.CoreCompileInputs.cache
+/Users/jsflax/Development/StitchCSharpSDK/todo/obj/Debug/netstandard2.0/todo.AssemblyInfoInputs.cache
+/Users/jsflax/Development/StitchCSharpSDK/todo/obj/Debug/netstandard2.0/todo.AssemblyInfo.cs
+/Users/jsflax/Development/StitchCSharpSDK/todo/obj/Debug/netstandard2.0/todo.dll
+/Users/jsflax/Development/StitchCSharpSDK/todo/obj/Debug/netstandard2.0/todo.pdb
